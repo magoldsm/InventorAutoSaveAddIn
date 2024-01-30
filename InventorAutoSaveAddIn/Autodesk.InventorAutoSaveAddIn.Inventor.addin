@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 27.0-->
+  <ClassId>{9f5c012c-af13-469c-a083-77056c5e5e70}</ClassId>
+  <ClientId>{9f5c012c-af13-469c-a083-77056c5e5e70}</ClientId>
+  <DisplayName>InventorAutoSaveAddIn</DisplayName>
+  <Description>InventorAutoSaveAddIn</Description>
+  <Assembly>C:\ProgramData\Autodesk\Inventor Addins\InventorAutoSaveAddIn.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>26..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
